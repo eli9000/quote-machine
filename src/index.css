@@ -1,5 +1,30 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: fantasy;
+  /* background-image: url("/images/img_0209.jpg"); */
+  background-image: url("/images/img_0203.jpg");
+  /* background-image: url("/images/img_0033.jpg"); */
+  /* background-image: url("/images/img_0213.jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*:focus {
+  outline: none;
+}
+
+a {
+  display: inline-block;
+  -webkit-transition: 250ms ease;
+  -moz-transition: 250ms ease;
+  transition: 250ms ease;
 }
