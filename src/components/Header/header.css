@@ -4,16 +4,14 @@
   align-content: center;
   align-items: center;
   width: 100%;
-  padding: 20px 20px 10px 20px;
-  background-color: #333;
+  padding: 10px 20px;
+  background-color: rgba(51, 51, 51, 0.396);
   color: white;
-  font-size: 2rem;
-  opacity: 0.8;
+  font-size: 1.5rem;
 }
 
 .header i {
-  color: #aaaaaa;
-  padding-right: 20px;
+  color: #ffffff;
 }
 
 .header i:hover {

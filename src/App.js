@@ -29,8 +29,6 @@ class App extends Component {
     console.log(quotePick);
   };
 
-  shareTweet = event => {};
-
   render() {
     const { data } = this.state;
     return (

@@ -8,8 +8,8 @@ const Header = () => (
   <header className="header">
     Quotes from Antioch and Yore
     <div className="social">
-      Share via&nbsp;&nbsp;
-      <a href={share}>
+      Share this via&nbsp;&nbsp;
+      <a href={share} target="_blank">
         <i className="fab fa-twitter-square fa-md" />
       </a>
     </div>

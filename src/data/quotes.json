@@ -20,12 +20,30 @@
     },
     {
       "id": 4,
+      "author": "Marcus Aurelius",
+      "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+      "wiki": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    },
+    {
+      "id": 5,
+      "author": "Marcus Aurelius",
+      "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "wiki": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    },
+    {
+      "id": 6,
+      "author": "Marcus Aurelius",
+      "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "wiki": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    },
+    {
+      "id": 7,
       "author": "Socrates",
       "quote": "True knowledge exists in knowing that you know nothing.",
       "wiki": "https://en.wikipedia.org/wiki/Socrates"
     },
     {
-      "id": 5,
+      "id": 8,
       "author": "Archimedes",
       "quote": "Give me a place to stand and I will move the earth.",
       "wiki": "https://en.wikipedia.org/wiki/Archimedes"

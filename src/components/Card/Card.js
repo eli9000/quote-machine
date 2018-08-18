@@ -12,19 +12,17 @@ const Card = props => {
     <div className="card" id="quote-box">
       <div className="quote" id="text">
         <i className="fas fa-quote-left" />
+        &nbsp;
         {props.quote}
       </div>
       <div className="container">
         <button id="new-quote" onClick={props.newIsh}>
-          Get New Quote
+          New Quote
         </button>
         <a href={tweet} target="_blank">
           <button id="tweet-quote">
-            Tweet! <i className="fab fa-twitter" />
+            Tweet this! <i className="fab fa-twitter" />
           </button>
-        </a>
-        <a href={props.wiki} target="_blank">
-          <button id="wiki-quote">Wiki {props.author}</button>
         </a>
       </div>
       <div className="author" id="author">
