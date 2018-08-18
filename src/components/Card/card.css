@@ -48,3 +48,28 @@ button:hover {
   box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.2),
     0 6px 20px 0 rgba(255, 255, 255, 0.3);
 }
+
+@media screen and (max-width: 600px) {
+  .card {
+    margin: 0;
+  }
+
+  .quote {
+    font-size: 2rem;
+  }
+
+  .author {
+    font-size: 1.5rem;
+    position: relative;
+    top: -80px;
+  }
+
+  .container {
+    display: flex;
+    flex-flow: column;
+  }
+
+  button {
+    max-width: 108px;
+  }
+}
