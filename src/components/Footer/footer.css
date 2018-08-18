@@ -11,10 +11,10 @@
   opacity: 0.8;
 }
 
-.footer > i {
-  color: green;
+.footer i {
+  color: #eee;
 }
 
-.footer > i:hover {
-  color: greenyellow;
+.footer i:hover {
+  color: rgb(28, 245, 28);
 }

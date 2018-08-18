@@ -4,7 +4,9 @@ import "./footer.css";
 const Footer = () => (
   <footer className="footer">
     Created by Eli Johnson for &nbsp;
-    <i className="fab fa-free-code-camp fa-lg" />
+    <a href="https://www.freecodecamp.org/eli9000">
+      <i className="fab fa-free-code-camp fa-2x" />
+    </a>
   </footer>
 );
 

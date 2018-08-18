@@ -1,6 +1,5 @@
 .header {
   display: flex;
-  flex-flow: row nowrap;
   justify-content: space-between;
   align-content: center;
   align-items: center;
@@ -12,12 +11,11 @@
   opacity: 0.8;
 }
 
-i {
+.header i {
   color: #aaaaaa;
   padding-right: 20px;
 }
 
-i:hover {
-  text-shadow: 0 3px 2px blue;
-  color: white;
+.header i:hover {
+  color: skyblue;
 }

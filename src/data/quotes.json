@@ -3,22 +3,19 @@
     {
       "id": 1,
       "author": "Aristotal",
-      "quote":
-        "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "wiki": "https://en.wikipedia.org/wiki/Aristotle"
     },
     {
       "id": 2,
       "author": "Plato",
-      "quote":
-        "Love is a serious mental disease. Only the dead have seen the end of war. Be kind, for everyone you meet is fighting a hard battle.",
+      "quote": "Love is a serious mental disease. Only the dead have seen the end of war. Be kind, for everyone you meet is fighting a hard battle.",
       "wiki": "https://en.wikipedia.org/wiki/Plato"
     },
     {
       "id": 3,
       "author": "Marcus Aurelius",
-      "quote":
-        "When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.",
+      "quote": "When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.",
       "wiki": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
     },
     {
@@ -29,7 +26,7 @@
     },
     {
       "id": 5,
-      "author": "Archemedes",
+      "author": "Archimedes",
       "quote": "Give me a place to stand and I will move the earth.",
       "wiki": "https://en.wikipedia.org/wiki/Archimedes"
     }
