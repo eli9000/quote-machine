@@ -1,8 +1,12 @@
-# Random Quotes from **Antioch and Yor**!
+# Random Quotes from Antioch and Yore
 
-## This app will satisfy the following _params_ for
+## Built Using
 
-![FreeCodeCamp](https://s3.amazonaws.com/freecodecamp/freecodecamp_logo.svg "das camp")
+- React
+- CSS
+- Sketch
+
+`Pulls random quotes from a small JSON dataset. Included is the ability to Tweet the current quote, or generate a new one.`
 
 [Click Here][fcc] for a more thourough list of requirements for the project.
 
